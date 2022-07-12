@@ -1,8 +1,8 @@
 #Basic Syntax
 
-def fun_name ():
+'''def fun_name ():
     statement1
-    statement2
+    statement2'''
 
 
     #Types of functions:
