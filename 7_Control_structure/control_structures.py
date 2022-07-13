@@ -76,18 +76,11 @@ else:
 num = 5
 while num>0:
     print(num)
-    num -=1
-
+    num ==1
     
-#Sequence
-
-day=input()
-saturday
-print("today is"+day)
-today is saturday
-
 
 #selection
+
 x=5
 if x > 0:
     print("x is +ve")
@@ -98,7 +91,7 @@ if x>0:
 else:
     print("x is not +ve")
          
-x=int(intput())
+x=int(input())
 if x >0:
     print("x is +ve")
 elif x<0:
@@ -117,6 +110,7 @@ while a>0:
     
         
 #Range()
+
 for a in range(3):
     for b in range(3):
         print(a,b)
