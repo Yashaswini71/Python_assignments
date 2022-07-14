@@ -70,17 +70,17 @@ print(x)
 #The format() Method for Formatting Strings
 
 # default(implicit) order
-first_order = "{}, {} and {}".format('yashu','nandu','kavya')
+first_order = "{}, {} and {}".format('yashu','nandu','divya')
 print('\n--- first Order ---')
 print(first_order)
 
 # order using positional argument
-second_order = "{1}, {0} and {2}".format('yashu','nandu','kavya')
+second_order = "{1}, {0} and {2}".format('yashu','nandu','divya')
 print('\n--- second Order ---')
 print(second_order)
 
 # order using keyword argument
-third_order = "{s}, {b} and {j}".format(j='yashu',b='nandu',s='kavya')
+third_order = "{s}, {b} and {j}".format(j='yashu',b='nandu',s='divya')
 print('\n--- third Order ---')
 print(third_order)
 
